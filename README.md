@@ -1,7 +1,11 @@
 # 🌌 C.O.R.E System - Frontend Dashboard
 **Centralized Operational Runtime Engine - The Ultimate Offline Linux Assistant UI**
 
-![C.O.R.E Preview](./core-icon.png) ## 🚀 Overview
+![C.O.R.E Preview](./1.png)
+![C.O.R.E Preview](./2.png)
+![C.O.R.E Preview](./3.png)
+
+## 🚀 Overview
 This repository showcases the **Front-End Architecture and UI/UX Design** of the C.O.R.E System. 
 Originally built as a Python-based offline assistant (formerly known as Jarvis), the project evolved into a fully-fledged desktop orchestration tool. This repo highlights the front-end dashboard designed to bridge the gap between heavy backend Python scripts and a seamless, futuristic user experience.
 
