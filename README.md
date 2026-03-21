@@ -28,4 +28,4 @@ This static website is deployed on Netlify for blazing-fast global delivery.
 **Live Demo:** [Check out the live website here](https://core-assistant.netlify.app/)
 
 ---
-*Designed & Engineered by [Eng Omar Nasser](your-linkedin-link)*
+*Designed & Engineered by [Eng Omar Nasser](https://www.linkedin.com/in/omar-nasser-74226630b/?locale=en_US)*
